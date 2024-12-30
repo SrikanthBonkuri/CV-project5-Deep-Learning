@@ -1,0 +1,8 @@
+Project 5 submission
+
+Operating System - Windows 11
+IDE - Visual Studio
+
+Code instructions and project report is present in the wiki page
+
+Wiki report page link: https://wiki.khoury.northeastern.edu/display/~srikanthbonkuri/Project+5%3A+Recognition+using+Deep+Networks
